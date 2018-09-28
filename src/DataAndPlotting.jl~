@@ -1,0 +1,9 @@
+module DataAndPlotting
+
+const ni=3-
+const nj=30
+
+function initialize()
+    arr=zeros(Float64,ni,nj)
+
+end # module
